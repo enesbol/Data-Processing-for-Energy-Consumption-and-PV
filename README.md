@@ -18,9 +18,9 @@ Finding the energy consumption and power consumption for 58 houses in the buildi
 
 6 - Adjusting the frequency of the data so that it is suitable for use in the formula.
 
-7 - Finding energy consumption with formula.
+7 - Finding energy consumption with appropriate electric formula.
 
-8 - Calculation of power and energy consumption values ​​for 58 different houses in 15-minute intervals for 1 year. 
+8 - Calculation of power and energy consumption values ​ for 58 different houses in 15-minute intervals for 1 year. 
 
 9 - Dynamic visualization of results.
  
