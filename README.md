@@ -25,3 +25,4 @@ Finding the energy consumption and power consumption for 58 houses in the buildi
 9 - Dynamic visualization of results.
 
 
+![Sensor Data Pipeline (2)](https://user-images.githubusercontent.com/76845631/197051609-61c74d1c-c260-4bcb-831f-ac8ce8200db3.png)
