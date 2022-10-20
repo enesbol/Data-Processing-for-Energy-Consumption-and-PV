@@ -23,5 +23,4 @@ Finding the energy consumption and power consumption for 58 houses in the buildi
 8 - Calculation of power and energy consumption values ​ for 58 different houses in 15-minute intervals for 1 year. 
 
 9 - Dynamic visualization of results.
-
- ![Sensor Data Pipeline (1)](https://user-images.githubusercontent.com/76845631/197031422-5eba7d92-fa73-4aed-8c76-d8092c62bf3a.png)
+ ![Sensor_Data_Pipeline__1_-removebg-preview](https://user-images.githubusercontent.com/76845631/197031532-baff5c91-e311-4786-ace0-4d6b8b1b476e.png)
