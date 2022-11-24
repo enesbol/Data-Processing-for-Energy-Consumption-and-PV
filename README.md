@@ -4,6 +4,8 @@ Finding the energy consumption and power consumption for 58 houses in the buildi
 
 Since the Returned Low and Pv measurements are not at the same minute, I put the dates of the returned low between the pv data to align the signals, and predict what the pv will be at that minute and hour using scipy.interpolate.BPoly.from_derivatives using a piecewise polynomial. I also found these values ​​with the ffill method. And as the real pv signal, I used the average of these 2 signals according to certain situations.
 
+![Comparison of Interpolation Methods](https://user-images.githubusercontent.com/76845631/203824539-274a2281-2541-4fe9-991b-f34af5aac97f.png)
+
 ****Project Steps:****
 
 1 - Filtering 70 million rows of data to 10 million rows to speed up data processing.
