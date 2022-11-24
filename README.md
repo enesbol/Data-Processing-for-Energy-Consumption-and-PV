@@ -2,7 +2,7 @@
 ****Project Goal:****
 Finding the energy consumption and power consumption for 58 houses in the building from the sensor energy metric data of a building by applying the relevant electrical formulas on the data. The converted data will then be used to calculate the building's total power and energy consumption.
 
-
+Since the Returned Low and Pv measurements are not at the same minute, I put the dates of the returned low between the pv data to align the signals, and predict what the pv will be at that minute and hour using scipy.interpolate.BPoly.from_derivatives using a piecewise polynomial. I also found these values ​​with the ffill method. And as the real pv signal, I used the average of these 2 signals according to certain situations.
 
 ****Project Steps:****
 
