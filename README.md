@@ -6,6 +6,8 @@ Since the Returned Low and Pv measurements are not at the same minute, I put the
 
 ![Comparsion of Interpolation Methods](https://user-images.githubusercontent.com/76845631/203826104-089c9d2d-d7fc-4241-8918-5f2d71489880.png)
 
+![Both](https://user-images.githubusercontent.com/76845631/203828380-10bf607b-ed34-4fb7-b44f-671239c79d09.png)
+
 ****Project Steps:****
 
 1 - Filtering 70 million rows of data to 10 million rows to speed up data processing.
