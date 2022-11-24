@@ -6,9 +6,11 @@ Since the Returned Low and Pv measurements are not at the same minute, I put the
 
 ![Comparsion of Interpolation Methods](https://user-images.githubusercontent.com/76845631/203826104-089c9d2d-d7fc-4241-8918-5f2d71489880.png)
 
+![pv retlow](https://user-images.githubusercontent.com/76845631/203830982-849317d0-c6e7-417f-80fa-b8665a3b12b9.png)
+
+
 ![Both](https://user-images.githubusercontent.com/76845631/203828380-10bf607b-ed34-4fb7-b44f-671239c79d09.png)
 
-![pv retlow](https://user-images.githubusercontent.com/76845631/203830982-849317d0-c6e7-417f-80fa-b8665a3b12b9.png)
 
 
 
