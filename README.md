@@ -10,6 +10,7 @@ Since the Returned Low and Pv measurements are not at the same minute, I put the
 
 ![Both](https://user-images.githubusercontent.com/76845631/203828380-10bf607b-ed34-4fb7-b44f-671239c79d09.png)
 
+![method](https://user-images.githubusercontent.com/76845631/204105416-d4c52224-8c2a-4326-94d6-59c7c0de6d11.png)
 
 
 
